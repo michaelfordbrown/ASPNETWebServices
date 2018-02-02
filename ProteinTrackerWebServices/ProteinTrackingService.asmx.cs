@@ -6,7 +6,7 @@ using System.Web.Services;
 
 namespace ProteinTrackerWebServices
 {
-    [WebService(Namespace = "http://tempuri.org/")]
+    [WebService(Namespace = "localhost")]
     [WebServiceBinding(ConformsTo = WsiProfiles.BasicProfile1_1)]
     [System.ComponentModel.ToolboxItem(false)]
  
