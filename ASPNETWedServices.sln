@@ -34,6 +34,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProteinTrackerClient", "Pro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorClient", "CalculatorClient\CalculatorClient.csproj", "{FD4089C5-D659-41B5-9846-31F84A2EC07D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProteinTrackerWebAPI", "ProteinTrackerWebAPI\ProteinTrackerWebAPI.csproj", "{1CD45E0A-540F-40D7-BFA1-FD6086E7CE03}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -56,6 +58,10 @@ Global
 		{FD4089C5-D659-41B5-9846-31F84A2EC07D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD4089C5-D659-41B5-9846-31F84A2EC07D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD4089C5-D659-41B5-9846-31F84A2EC07D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CD45E0A-540F-40D7-BFA1-FD6086E7CE03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CD45E0A-540F-40D7-BFA1-FD6086E7CE03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CD45E0A-540F-40D7-BFA1-FD6086E7CE03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CD45E0A-540F-40D7-BFA1-FD6086E7CE03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
